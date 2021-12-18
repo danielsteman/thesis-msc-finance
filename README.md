@@ -1,0 +1,1 @@
+The potential of a cointegration-based pair trading system in the cryptocurrency market.
